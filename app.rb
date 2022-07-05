@@ -5,5 +5,5 @@ get '/' do
 end
 
 post '/' do
-  erb :contact
+  erb :complete
 end
